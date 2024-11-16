@@ -2,7 +2,7 @@
     Title: VSK
     Version: 1.2.2
     Last Change: 11/14/2024
-    Author: Ryan Fitzgerald
+    Author: VSK
     Repo: https://github.com/RyanFitzgerald/devportfolio-template
     Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
 
