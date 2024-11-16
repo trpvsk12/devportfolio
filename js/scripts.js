@@ -1,7 +1,7 @@
 /*!
-    Title: Dev Portfolio Template
+    Title: VSK
     Version: 1.2.2
-    Last Change: 03/25/2020
+    Last Change: 11/14/2024
     Author: Ryan Fitzgerald
     Repo: https://github.com/RyanFitzgerald/devportfolio-template
     Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
